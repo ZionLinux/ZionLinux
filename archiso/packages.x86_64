@@ -160,3 +160,7 @@ adobe-source-han-sans-kr-fonts
 adobe-source-han-sans-cn-fonts
 yaml-cpp
 os-prober
+
+# the goddamit i forgot packages
+
+grub
