@@ -45,7 +45,8 @@ cd ..
 echo "Erasing work directories."
 sudo rm -rf //zion
 sudo rm -rf //archiso
-sudo mkarchiso -v -w //zion -o /archiso archiso/
+echo "Building iso, Please wait..."
+sudo mkarchiso -w //zion -o /archiso archiso/
 echo "Built ISO."
 echo "The output ISO can be found in //archiso."
 echo "Going back to menu."
