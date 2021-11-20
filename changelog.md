@@ -14,3 +14,5 @@
  - Build from scratch.
  - Modified build ISO script.
  - Pushed build ISO script.
+ - Added fully actually working and install able calamares.
+ - Released prebuilt iso.
