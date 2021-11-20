@@ -113,7 +113,7 @@ wpa_supplicant
 wvdial
 xfsprogs
 xl2tpd
-zsh # Terminal console
+zsh
 dhcpcd
 
 # Custom packages
