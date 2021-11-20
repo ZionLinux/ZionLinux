@@ -19,7 +19,9 @@ Currently I won't make the discord server public as of the rebranding of **THE L
 to build the ISO, first you need to have a copy of [this Repository](https://github.com/zionlinux/zionlinux) to your machine. <br>
 To do that, you will need to ``git clone`` this Repository.
 
-```git clone https://github.com/zionlinux/zionlinux```
+```
+git clone https://github.com/zionlinux/zionlinux
+```
 
 You will need to cd to ``installation-stuff`` where the build script is located.
 
