@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
 # shellcheck disable=SC2034
 
-iso_name="Zion"
-iso_label="Zion Linux"
+iso_name="zionlinux"
+iso_label="ZION_1.5.3"
 iso_publisher="The Zion Team"
-iso_application="zion"
+iso_application="Zion Linux LiveCD"
 iso_version="1.5.3"
 install_dir="arch"
 buildmodes=('iso')

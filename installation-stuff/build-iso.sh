@@ -44,6 +44,7 @@ fi
 cd ..
 echo "Erasing work directory."
 sudo rm -rf //zion
+sudo rm -rf //archiso
 sudo mkarchiso -v -w //zion -o /archiso archiso/
 echo "Built ISO."
 echo "Going back to menu."
