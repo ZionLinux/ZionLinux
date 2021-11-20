@@ -28,3 +28,5 @@ cd installation-stuff
 # Other Repositories
 
 Calamares configuration: [ZionCalamares at Github.com](https://github.com/zionlinux/zioncalamares)
+
+Other Zion stuff: [ZionOther at Github.com](https://zionlinux/zionother)
