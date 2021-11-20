@@ -9,7 +9,7 @@ Other **Repositories** can be found at the bottom of the ``readme``.
 # Download
 
 ~~Currently, there will be **no download** until the installer, Calamares is fully working.~~
-Calamares is fully working, so as I promised. Here's the download:
+Calamares is fully working, so as I promised. Here's the download: https://github.com/zionlinux/zionlinux/releases
 
 
 
