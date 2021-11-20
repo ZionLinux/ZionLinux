@@ -4,4 +4,4 @@
  - Rebrand discord server
  - Link discord server
  - Build and finish calamares.
- - Add building steps to readme.
+ - ~~Add building steps to readme.~~ (done.)
