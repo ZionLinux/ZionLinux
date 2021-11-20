@@ -6,12 +6,20 @@ Based on [Arch Linux](https://archlinux.org).
 
 Other **Repositories** can be found at the bottom of the ``readme``.
 
+# Download
+
+Currently, there will be **no download** until the installer, Calamares is fully working.
+
+If you want to build the current ISO, follow the building instructions.
+
+If you want to help the project, open a pull request or join the discord server and DM me.
+
+
+Currently I won't make the discord server public as of the rebranding of **THE Linux to Zion Linux.**
+
 # Building
 
-
-To build the iso, you will first need the latest version of the custom Calamares config for Zion. Which will be pushed later.
-
-For now, to only build the ISO, follow these steps:
+to build the ISO, follow these steps:
 
 ``git clone https://github.com/zionlinux/zionlinux``
 
@@ -24,6 +32,8 @@ cd installation-stuff
 # Type in 1 and press enter.
 # Then wait.
 ```
+
+the iso can be found in the ``archiso`` directory at the root of the filesystem.
 
 # Other Repositories
 
