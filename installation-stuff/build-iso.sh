@@ -13,7 +13,7 @@ goto "menu"
 
 : menu
 
-echo "Build the Zion Linux ISO v1.3"
+echo "Build the Zion Linux ISO"
 echo ""
 echo "Please select a option."
 echo ""
@@ -42,11 +42,12 @@ fi
 : build
 
 cd ..
-echo "Erasing work directory."
+echo "Erasing work directories."
 sudo rm -rf //zion
 sudo rm -rf //archiso
 sudo mkarchiso -v -w //zion -o /archiso archiso/
 echo "Built ISO."
+echo "The output ISO can be found in //archiso."
 echo "Going back to menu."
 cd installation-stuff
 goto "menu"
