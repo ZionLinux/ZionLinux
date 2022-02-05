@@ -3,7 +3,10 @@ amd-ucode
 arch-install-scripts
 archinstall
 b43-fwcutter
+
 base
+base-devel
+
 bind-tools
 brltty
 broadcom-wl
@@ -92,7 +95,6 @@ sg3_utils
 smartmontools
 sof-firmware
 squashfs-tools
-sudo
 syslinux
 systemd-resolvconf
 tcpdump
@@ -127,6 +129,10 @@ firefox
 git
 alacritty
 onboard
+ntfs-3g
+pulseaudio
+pulsemixer
+
 
 # Graphics and stuff
 
