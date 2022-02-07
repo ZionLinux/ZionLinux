@@ -1,7 +1,7 @@
 # Zion Linux support.
  We have multiple sources where you can get support/help with Zion.
  
- The most active is probably our Discord server. (Currently going through a rebrand.)
+ The most active is probably our [Discord server](https://discord.gg/e4XaX6zcBa).
  
  You can also get support on the [Issues](https://github.com/zionlinux/zionlinux/issues) tab. (May be slower.)
  

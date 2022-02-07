@@ -32,14 +32,13 @@ You will need to cd to ``installation-stuff`` where the build script is located.
 
 ```
 cd zionlinux
-cd installation-stuff
+cd archiso
 ```
 Then, run the script and select option **one**.
 
 ```
-./build-iso.sh
-# Type in 1 and press enter.
-# Then wait.
+./build.sh
+# Grab a cup of tea, this is gonna take a while.
 ```
 
 the output can be found in the ``archiso`` directory at the root of the filesystem.
@@ -48,4 +47,8 @@ the output can be found in the ``archiso`` directory at the root of the filesyst
 
 Calamares configuration: [ZionCalamares at Github.com](https://github.com/zionlinux/zioncalamares)
 
-Other Zion stuff: [ZionOther at Github.com](https://zionlinux/zionother)
+Other Zion stuff: [ZionOther at Github.com](https://github.com/zionlinux/zionother)
+
+Zion's pacman repository: [ZionRepo at Github.com](https://github.com/zionlinux/ZionRepo)
+
+Zion PKGBUILD's: [ZionPkgbuild at Github.com](https://github.com/zionlinux/ZionPkgbuild)

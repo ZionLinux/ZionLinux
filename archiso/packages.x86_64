@@ -132,7 +132,9 @@ onboard
 ntfs-3g
 pulseaudio
 pulsemixer
-
+gparted
+grub-customizer
+openvpn
 
 # Graphics and stuff
 
@@ -142,10 +144,6 @@ xorg-drivers
 xorg-apps
 xorg-xkill
 xorg-xinit
-
-# Other
-
-gparted
 
 # Calamares
 
