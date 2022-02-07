@@ -1,16 +1,27 @@
-#!/bin/bash
 
-sudo git pull
+# checking if I have the latest files from github
+echo "Checking for newer files online first"
+git pull
 
-sudo git add --all .
+# Below command will backup everything inside the project folder
+git add --all .
 
-echo "Please write your commit message."
+# Give a comment to the commit if you want
+echo "####################################"
+echo "Write your commit comment!"
+echo "####################################"
+
 read input
+
+# Committing to the local repository with a message containing the time details and commit text
 
 git commit -m "$input"
 
-sleep 0.5
+# Push the local files to github
 
-git push --all origin master
+git push -u origin master
 
-echo "Pushed!"
+
+echo "################################################################"
+echo "###################    Git Push Done      ######################"
+echo "################################################################"
